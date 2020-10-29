@@ -1,5 +1,7 @@
-# config.json
-# insta-prof.json
-# pasteiffailed.txt
-# Procfile
-# node_modules
+.package.json
+.package-lock.json
+.config.json.
+.insta-prof.json
+.pasteiffailed.txt
+commands/
+node_modules/
